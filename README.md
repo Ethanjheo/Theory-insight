@@ -1,1 +1,1 @@
-# theory-insight
+# Theory-insight
