@@ -1,7 +1,9 @@
 # Marx and the Question of Good and Evil
 
 **Logged on:** 2025-07-19
+
 **Based on:** *Sociology for a New Generation (새로운 세대를 위한 사회학)* by Kim Yoon-tae (김윤태)   
+
 **Topic:** Marxism, Ideology, and Society
 
 ---
