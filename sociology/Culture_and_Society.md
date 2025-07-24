@@ -14,6 +14,10 @@ For instance, Korean society is rooted in collectivism and hierarchical structur
 Abstract cultural concepts must be contextualized and applied to real societal dynamics.  
 As anthropologist Edward T. Hall distinguished between high-context and low-context cultures, we too must adopt a deductive and probabilistic way of thinking that reflects these cultural logics.
 
+The rapid transformation of material culture is often driven by economic incentives — nations and corporations adopt new technologies quickly to stay competitive and ensure survival.
+In contrast, non-material culture — including values, laws, institutions, and customs — tends to evolve more slowly.
+While this lag is often explained by a desire to preserve tradition, from a sociological perspective, it also serves a deeper function: to maintain the stability of existing power structures and prevent the fluid redistribution of authority.
+
 ---
 
 ## Summary of Key Concepts
