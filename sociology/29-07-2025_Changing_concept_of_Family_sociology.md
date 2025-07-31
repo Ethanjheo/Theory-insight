@@ -2,7 +2,7 @@
 
 - Title: Introduction to Sociology  
 - Author: Yoon-Tae Kim  
-- Publisher: Hanul Publishing  
+- Publisher: Humanist 
 - Date Studied: 2025-07-29
 
 ---
