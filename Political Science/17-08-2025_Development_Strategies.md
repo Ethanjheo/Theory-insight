@@ -47,3 +47,10 @@ Interpretations of development vary depending on perspective. From an environmen
 The core challenge is to define **what should be prioritized in sustainable development**. A single academic lens cannot provide a full solution; rather, it requires a synthesis of ethical, geopolitical, and economic considerations.  
 
 Ultimately, national growth is inherently relative. Given current scientific and technological limitations, it is unlikely that all states can equally satisfy development needs. This structural inequality makes hierarchical differentiation between states inevitable until transformative technologies emerge.  
+
+## Literature-Based Evidence
+- Amsden, A. (1989). *Asia’s Next Giant: South Korea and Late Industrialization*. Oxford University Press.  
+- Wade, R. (1990). *Governing the Market: Economic Theory and the Role of Government in East Asian Industrialization*. Princeton University Press.  
+- Mann, M. (1984). “The Autonomous Power of the State: Its Origins, Mechanisms, and Results.” *European Journal of Sociology*, 25(2).  
+- Evans, P. (1995). *Embedded Autonomy: States and Industrial Transformation*. Princeton University Press.  
+- United Nations (1987). *Report of the World Commission on Environment and Development: Our Common Future*. Oxford University Press.  
