@@ -48,8 +48,8 @@ This process weakens national cultural identity while strengthening legal, civic
   - Strengthening multi-stakeholder governance in cyberspace.  
 
 ## Accuracy and Coherence
-- **Accuracy (정확성):** Supported by world-systems theory and global culture research.  
-- **Coherence (정합성):** Aligns with broader patterns of political-economic globalization while recognizing cultural pluralism.  
+- **Accuracy :** Supported by world-systems theory and global culture research.  
+- **Coherence :** Aligns with broader patterns of political-economic globalization while recognizing cultural pluralism.  
 
 ## Personal Reflection
 The capitalist world-system is altering the scope of state influence, opening pathways for populism. In Korea, dependence on the U.S. economy combined with domestic political assertiveness suggests a possible shift toward political primacy over economic logic. This imbalance may lead to contradictions between domestic policies and global pressures. Despite this, political actors may still rely on populist and symbolic language to secure electoral support.  
