@@ -1,4 +1,4 @@
-# 08-28-2025_Information_Society_Civil_Society.md
+# 28-08-2025_Information_Society_Civil_Society.md
 
 ## Book Info
 - Title: Introduction to Sociology 
