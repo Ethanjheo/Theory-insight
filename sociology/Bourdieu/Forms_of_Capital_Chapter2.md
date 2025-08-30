@@ -69,6 +69,7 @@ First, cultural capital. Tastes, language, and patterns of behavior may appear t
 Second, social capital. Marriage, friendship, and educational credentials are not merely personal relationships but are deeply tied to the maintenance of social hierarchies. Marriage operates as a mechanism for consolidating wealth and status between families; friendship enables not only emotional support but also the circulation of material and informational resources; educational credentials function as networks of belonging through which collective influence is exercised.
 
 In this way, Bourdieu demonstrates that practices overlooked by traditional economics must also be understood as forms of capital. Such capitals accumulate over time, and rather than deviating from their path, they consistently reproduce privilege, thereby expanding the influence of cultural and social capital as enduring sources of power.
+
 ---
 
 ## Literature-Based Evidence
