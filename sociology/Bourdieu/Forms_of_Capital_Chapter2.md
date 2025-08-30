@@ -70,7 +70,9 @@ Second, social capital. Marriage, friendship, and educational credentials are no
 
 In this way, Bourdieu demonstrates that practices overlooked by traditional economics must also be understood as forms of capital. Such capitals accumulate over time, and rather than deviating from their path, they consistently reproduce privilege, thereby expanding the influence of cultural and social capital as enduring sources of power.
 
----
+This perspective does not merely restate Bourdieu’s concepts but situates them within a broader dialogue with other theories. In contrast to classical economics, Bourdieu’s framework offers a distinctive lens to explain the reproduction of social inequality.
+
+--
 
 ## Literature-Based Evidence
 - Bourdieu, Pierre. *The Forms of Capital*. 1986.  
