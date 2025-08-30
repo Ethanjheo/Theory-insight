@@ -72,7 +72,7 @@ In this way, Bourdieu demonstrates that practices overlooked by traditional econ
 
 This perspective does not merely restate Bourdieu’s concepts but situates them within a broader dialogue with other theories. In contrast to classical economics, Bourdieu’s framework offers a distinctive lens to explain the reproduction of social inequality.
 
---
+---
 
 ## Literature-Based Evidence
 - Bourdieu, Pierre. *The Forms of Capital*. 1986.  
