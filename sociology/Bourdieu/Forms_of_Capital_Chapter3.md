@@ -1,4 +1,4 @@
-# 31-08-2025_Forms_of_Capital_Chapter3.md
+# Forms_of_Capital_Chapter3.md
 
 ## Book Info
 - Title: Forms of Capital  
