@@ -63,6 +63,8 @@ What I find particularly compelling is Bourdieu’s ability to conceptualize abs
 
 Ultimately, society functions within a pre-structured hierarchy, making it difficult to overcome such barriers through individual effort alone. Yet understanding these dynamics and acting within them are two separate matters. The crucial task is to confront the structural realities of society with clarity while maintaining the determination to transform them. For me, it is precisely in this tension—between recognition of constraints and the pursuit of change—that human dignity and beauty emerge. 
 
+### Rather than a theory of despair, it is better understood as an anatomical tool for social reform
+
 ---
 
 ## Literature-Based Evidence
