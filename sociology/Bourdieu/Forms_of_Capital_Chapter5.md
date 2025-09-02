@@ -61,6 +61,8 @@ In contemporary society, economic capital is subject to regulation through legal
 
 Governments and institutions have attempted to introduce corrective measures—such as regional admission quotas, scholarship programs, or preferential policies for socially disadvantaged groups. While these initiatives provide entry points for non-elite actors, they remain insufficient to fundamentally resolve the structural reproduction of privilege.
 
+### I believe that Bourdieu’s framework should not be read as a theory of despair. Rather, it is better understood as an anatomical tool for social reform.
+
 ---
 
 ## Literature-Based Evidence
