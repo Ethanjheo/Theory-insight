@@ -59,6 +59,6 @@ In conclusion, taste should not be reduced to an inner preference but rather und
 ## Literature-Based Evidence
 - Bourdieu, Pierre. *Distinction: A Social Critique of the Judgement of Taste*. Harvard University Press, 1984.  
 - Bourdieu, Pierre. *The Forms of Capital*. 1986.  
-- Lyotard, Jean-François. *The Postmodern Condition: A Report on Knowledge*. University of Minnesota Press, 1984.  
+- Lewin, Kurt. Principles of Topological Psychology. McGraw-Hill, 1936.
 
 ---
