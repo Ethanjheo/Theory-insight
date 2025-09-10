@@ -4,7 +4,7 @@
 - Title: *A Theory of Justice*  
 - Author: John Rawls  
 - Year: 1971  
-- Date Studied: 2025-09-10  
+- Date Studied: 2025-09-09  
 
 ---
 
