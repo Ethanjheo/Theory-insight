@@ -45,13 +45,13 @@ Rawls articulates two central principles of justice, chosen under the "veil of i
 ---
 
 ### 4. Personal Reflection
-Rawls’ framework forces us to rethink the meaning of fairness.  
-In modern societies, efficiency often dominates as a guiding principle. Yet Rawls reminds us that **justice cannot be reduced to aggregate gains**. What matters is how the structure treats its most vulnerable members.  
+There is a need to first clarify what is meant by social justice. John Rawls’s theory of justice emphasizes not the maximization of majority efficiency, but the pursuit of benefits that all members of society could reasonably endorse—what he terms comprehensive legitimacy. The crucial point is that justice does not consist in demanding the sacrifice of certain individuals; rather, it is secured when everyone, including the individual, stands to gain—a genuine win–win structure.
 
-This perspective resonates with contemporary debates: whether in taxation, healthcare, or housing, the question is not just “how much wealth we create,” but also **“who truly benefits?”**  
+The difficulty arises when the interests of a few appear larger than those of the many. In authoritarian regimes (e.g., China, Russia, North Korea), rulers may achieve national development while simultaneously reaping disproportionate benefits. Can this be called justice? From Rawls’s perspective, such arrangements could not be agreed upon behind the veil of ignorance, as political freedom and equal rights of participation are absent. Hence, they cannot be considered just.
+
+In conclusion, justice is not reducible to efficiency or the logic of majority rule. It requires that everyone benefit, with particular attention to the well-being of the least advantaged. Moreover, the principles of justice must be those that could be fairly chosen within the thought experiment of the veil of ignorance. Only then do they carry genuine social legitimacy.
 
 ---
 
 ## References
 - Rawls, John. *A Theory of Justice*. Harvard University Press, 1971.  
-- Freeman, Samuel. *Rawls*. Routledge, 2007.  
