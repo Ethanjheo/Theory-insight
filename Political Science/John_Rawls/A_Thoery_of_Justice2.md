@@ -1,4 +1,4 @@
-# Justice_Day2.md
+# A Theory of Justice – Day 2
 
 ## Book Info
 - Title: A Theory of Justice  
