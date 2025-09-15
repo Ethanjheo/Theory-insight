@@ -42,5 +42,3 @@ Neo-Marxism extends classical Marxist ideas into new domains—such as culture, 
 Studying Marx and Neo-Marxism is not about endorsing communism. It’s about gaining tools to critically analyze how economic structures, labor dynamics, and cultural narratives shape power in society. As a cybersecurity strategist in training, understanding these structures helps me better see how digital control systems and cyber policies also reflect broader power dynamics.
 
 ---
-
-## Suggested Folder: `reflections/2025-07-17-neo-marxism.md`
