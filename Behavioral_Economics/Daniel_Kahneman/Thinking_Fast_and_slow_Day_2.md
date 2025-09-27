@@ -36,6 +36,8 @@
 ---
 
 ## My Reflection  
-Understanding the two-system model changes how I interpret my own judgments.  
-Often, what feels like a rational choice is actually a **System 1 shortcut**, not careful reasoning.  
-For both cybersecurity strategy and daily decision-making, the real skill is to **recognize situations where System 1 might mislead** and to deliberately activate System 2.  
+I believe that our ideas are shaped by the environment, and these ideas collectively guide the flow of thought toward certain purposes. Through the framework of the two systems, we can pursue a more refined and effective way of thinking.  
+
+System 1 can be applied in situations that demand quick, intuitive judgments, while System 2 is better suited for logical and complex reasoning. However, clearly distinguishing between the two in practice is not always easy.  
+
+Nevertheless, it is important to practice consistently and to train ourselves to think in a way that balances cognitive efficiency with deliberate reasoning. By doing so, we can cultivate a more practical and disciplined approach to thought.  
