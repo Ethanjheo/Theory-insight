@@ -4,7 +4,7 @@
 - **Title:** Thinking, Fast and Slow  
 - **Author:** Daniel Kahneman  
 - **Publisher:** Farrar, Straus and Giroux  
-- **Date Studied:** 2025-09-29  
+- **Date Studied:** 2025-09-28  
 
 ---
 
