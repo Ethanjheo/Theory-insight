@@ -115,5 +115,5 @@ It is a system, not a mood.
 ---
 
 ## Note on Writing Support
-The book-summary section above was drafted with the assistance of GPT to improve structure and clarity.
-The “My Reflection” section will be my original writing.
+- The book-summary section above was drafted with the assistance of GPT to improve structure and clarity.
+- The “My Reflection” section will be my original writing.
