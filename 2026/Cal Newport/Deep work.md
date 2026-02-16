@@ -1,9 +1,9 @@
 # Deep Work – Cal Newport
 
 ## Book Overview
-- Author: Cal Newport  
-- Published: 2016  
-- Folder: Theory-insight / 2026 / Cal_Newport / Deep_Work
+**Author:** Cal Newport  
+**Text:** *Deep Work: Rules for Focused Success in a Distracted World*  
+**Folder:** 2026 / Cal_Newport / Deep_Work  
 
 ---
 
@@ -108,6 +108,10 @@ Deep work is not about motivation.
 It is about structured concentration.
 
 It is a system, not a mood.
+
+---
+## My Reflection (To Be Written by Me)
+
 
 ## Note on Writing Support
 The book-summary section above was drafted with the assistance of GPT to improve structure and clarity.
