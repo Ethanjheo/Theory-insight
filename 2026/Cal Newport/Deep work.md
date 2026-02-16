@@ -3,7 +3,7 @@
 ## Book Overview
 - Author: Cal Newport  
 - Published: 2016  
-- Field: Productivity, Cognitive Performance, Knowledge Economy  
+- Folder: Theory-insight / 2026 / Cal_Newport / Deep_Work
 
 ---
 
@@ -108,3 +108,7 @@ Deep work is not about motivation.
 It is about structured concentration.
 
 It is a system, not a mood.
+
+## Note on Writing Support
+The book-summary section above was drafted with the assistance of GPT to improve structure and clarity.
+The “My Reflection” section will be my original writing.
