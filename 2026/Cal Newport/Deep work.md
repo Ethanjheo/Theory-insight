@@ -110,7 +110,7 @@ It is about structured concentration.
 It is a system, not a mood.
 
 ---
-### My Reflection (To Be Written by Me)
+# My Reflection (To Be Written by Me)
 
 ---
 
