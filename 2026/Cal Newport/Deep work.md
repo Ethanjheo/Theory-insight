@@ -1,4 +1,4 @@
-# Deep Work – Cal Newport
+# Deep Work
 
 ## Book Overview
 **Author:** Cal Newport  
