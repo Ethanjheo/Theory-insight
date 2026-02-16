@@ -110,8 +110,9 @@ It is about structured concentration.
 It is a system, not a mood.
 
 ---
-## My Reflection (To Be Written by Me)
+### My Reflection (To Be Written by Me)
 
+---
 
 ## Note on Writing Support
 The book-summary section above was drafted with the assistance of GPT to improve structure and clarity.
