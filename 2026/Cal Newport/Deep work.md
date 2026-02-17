@@ -112,6 +112,26 @@ It is a system, not a mood.
 ---
 # My Reflection (To Be Written by Me)
 
+The author begins by arguing that, in modern society, it has become increasingly difficult to exercise deep concentration, yet such concentration is an essential condition for achieving meaningful outcomes. In contemporary life, we have grown accustomed to consuming light and fragmented knowledge through social media, which undermines sustained and reflective thinking. Moreover, algorithm-driven platforms limit exposure to diverse perspectives, narrowing the scope of thought and reducing behavioral consistency. This inconsistency, in turn, leads to lower levels of performance. While identifying these problems, the author also proposes corresponding solutions. He maintains that, over time, the ability to engage in deep work will become increasingly rare and therefore more valuable.
+
+Ultimately, the central objective of the author is to advocate the construction of systems. Rather than relying on personal willpower or fluctuating motivation, he emphasizes the deliberate design of structural environments that naturally facilitate concentration. By controlling time, minimizing shallow tasks, and building conditions that enable sustained immersion, individuals can produce higher-quality work.
+
+He also stresses the importance of tolerating boredom. This idea appears similar to the American marshmallow experiment, which highlights delayed gratification. From a long-term perspective, achieving higher performance requires accepting small, short-term sacrifices.
+
+Furthermore, he argues that deep concentration is not a matter of motivation but of systems. The most effective strategy is to design one’s life so that it remains within a structured framework, minimizing the likelihood of distraction.
+
+From my perspective, this approach seems to emphasize external structure and environmental design more than inner cultivation, which is often highlighted in certain Eastern traditions.
+
+In conclusion, Cal Newport prioritizes the creation of structural conditions that allow focus to emerge naturally rather than relying solely on individual motivation. I intend to adopt this method by designing an environment aligned with my goals, enabling myself to approach them in a more systematic and sustainable manner.
+
+---
+
+## References
+
+Mischel, W., Ebbesen, E. B., & Zeiss, A. R. (1972). Cognitive and attentional mechanisms in delay of gratification. Journal of Personality and Social Psychology, 21(2), 204–218. https://doi.org/10.1037/h0032198
+
+Nisbett, R. E. (2003). The geography of thought: How Asians and Westerners think differently—and why. Free Press.
+
 ---
 
 ## Note on Writing Support
